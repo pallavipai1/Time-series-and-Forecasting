@@ -1,4 +1,4 @@
-# project5
+# Time Series and forecasting
 Data set used: https://www.kaggle.com/felixzhao/productdemandforecasting
 This dataset contains data regarding order demands from four different warehouses over a period of four years from 2012 to 2016. The columns in this data set are as follows:
 Date: Date when the product was ordered from 2012 to 2016
